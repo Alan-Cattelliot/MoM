@@ -1,7 +1,7 @@
 pandas
 numpy
 matplotlib
-ipwidgets
+ipywidgets
 plotly
 cufflinks
 yfinance
