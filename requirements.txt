@@ -1,0 +1,8 @@
+__future__
+pandas
+numpy
+matplotlib
+ipwidgets
+plotly
+cufflinks
+yfinance
