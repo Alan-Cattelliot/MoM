@@ -1,0 +1,354 @@
+ticker,Company,ISIN,Pays,Marche,Secteur,Industrie
+2CRSI,"2CRSI S.A.",FR0013341781,FR,EURONEXT,Technology,"Computer Hardware"
+AB,"AB Science S.A.",FR0010557264,FR,EURONEXT,Healthcare,"Drug Manufacturers—Specialty & Generic"
+ABCA,"ABC arbitrage SA",FR0004040608,FR,EURONEXT,"Financial Services","Asset Management"
+ABEO,"Abeo SA",FR0013185857,FR,EURONEXT,"Consumer Cyclical",Leisure
+ABIO,Albioma,FR0000060402,FR,EURONEXT,Utilities,Utilities—Renewable
+ABVX,"ABIVAX Societe Anonyme",FR0012333284,FR,EURONEXT,Healthcare,Biotechnology
+ADOC,"Adocia SA",FR0011184241,FR,EURONEXT,Healthcare,Biotechnology
+ADUX,"AdUX SA",FR0012821890,FR,EURONEXT,"Communication Services","Advertising Agencies"
+ADV,"Advenis SA",FR0004152874,FR,EURONEXT,"Financial Services","Capital Markets"
+ADVI,"AdVini S.A.",FR0000053043,FR,EURONEXT,"Consumer Defensive","Beverages—Wineries & Distilleries"
+ADVIC,"Advicenne S.A.",FR0013296746,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALACT,"Groupe Actiplay SA",FR0011038348,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALADM,"ADThink Media Societe Anonyme",FR0010457531,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALADO,"Adomos S.A.",FR0013247244,FR,"Euronext GROWTH*","Real Estate","Real Estate Services"
+ALANT,"Antevenio, S.A.",ES0109429037,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALANV,"Anevia Societe Anonyme",FR0011910652,FR,"Euronext GROWTH*",Technology,Software—Infrastructure
+ALAQU,"Aquila SA",FR0010340711,FR,"Euronext GROWTH*",Industrials,"Security & Protection Services"
+ALARF,"Adeunis Societe anonyme",FR0013284627,FR,"Euronext GROWTH*",Technology,"Communication Equipment"
+ALATF,"Artefact SA",FR0000079683,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALAUP,NaN,FR0010397760,FR,"Euronext GROWTH*",NaN,NaN
+ALBDM,"BD Multimedia SA",FR0000035305,FR,"Euronext GROWTH*","Communication Services","Telecom Services"
+ALBFR,"Sidetrade SA",FR0010202606,FR,"Euronext GROWTH*",Technology,Software—Application
+ALBIO,"Biosynex SA",FR0011005933,FR,"Euronext GROWTH*",Healthcare,"Diagnostics & Research"
+ALBKK,"Baikowski SAS",FR0013384369,FR,"Euronext GROWTH*","Basic Materials",Chemicals
+ALBLD,"Bilendi SA",FR0004174233,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALBLU,"Bluelinea Societe Anonyme",FR0011041011,FR,"Euronext GROWTH*",Healthcare,"Medical Devices"
+ALBPS,"Biophytis SA",FR0012816825,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALBUD,"MINT Societe anonyme",FR0004172450,FR,"Euronext GROWTH*","Communication Services","Telecom Services"
+ALCAR,"Carmat SA",FR0010907956,FR,"Euronext GROWTH*",Healthcare,"Medical Instruments & Supplies"
+ALCJ,"Crossject Societe Anonyme",FR0011716265,FR,"Euronext GROWTH*",Healthcare,"Medical Instruments & Supplies"
+ALCLA,"Clasquin SA",FR0004152882,FR,"Euronext GROWTH*",Industrials,"Integrated Freight & Logistics"
+ALCLS,"Cellectis S.A.",FR0010425595,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALCOF,"Cofidur S.A.",FR0013257409,FR,"Euronext GROWTH*",Technology,"Electronic Components"
+ALCOR,"Biocorp Production",FR0012788065,FR,"Euronext GROWTH*",Healthcare,"Medical Devices"
+ALCRB,"Carbios SAS",FR0011648716,FR,"Euronext GROWTH*","Basic Materials","Specialty Chemicals"
+ALCUR,"Arcure S.A.",FR0013398997,FR,"Euronext GROWTH*",Industrials,"Specialty Industrial Machinery"
+ALCYB,"Cybergun S.A.",FR0013204351,FR,"Euronext GROWTH*","Consumer Cyclical",Leisure
+ALDAR,Damartex,FR0000185423,FR,"Euronext GROWTH*","Consumer Cyclical","Apparel Retail"
+ALDBT,"DBT SA",FR0013066750,FR,"Euronext GROWTH*",Industrials,"Specialty Industrial Machinery"
+ALDEI,"Deinove SA",FR0010879056,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALDEL,"Delfingen Industry S.A.",FR0000054132,FR,"Euronext GROWTH*","Consumer Cyclical","Auto Parts"
+ALDLS,DLSI,FR0010404368,FR,"Euronext GROWTH*",Industrials,"Staffing & Employment Services"
+ALDNE,"Don't Nod Entertainment S.A.",FR0013331212,FR,"Euronext GROWTH*","Communication Services","Electronic Gaming & Multimedia"
+ALDOL,NaN,FR0004022754,FR,"Euronext GROWTH*",NaN,NaN
+ALDR,"Delta Drone SA",FR0011522168,FR,"Euronext Access**",Industrials,"Aerospace & Defense"
+ALENE,"Enertime SA",FR0011915339,FR,"Euronext GROWTH*",Industrials,"Specialty Industrial Machinery"
+ALENT,"SA Entreparticuliers.com",FR0010424697,FR,"Euronext GROWTH*","Communication Services","Internet Content & Information"
+ALEO2,"Eo2 Societe Anonyme",FR0010465534,FR,"Euronext GROWTH*","Basic Materials","Lumber & Wood Production"
+ALERS,"Eurobio Scientific Societe anonyme",FR0013240934,FR,"Euronext GROWTH*",Healthcare,"Diagnostics & Research"
+ALESA,"Ecoslops S.A.",FR0011490648,FR,"Euronext GROWTH*",Industrials,"Waste Management"
+ALESK,"Esker SA",FR0000035818,FR,"Euronext GROWTH*",Technology,Software—Application
+ALEUP,"Europlasma S.A.",FR0000044810,FR,"Euronext GROWTH*",Industrials,"Waste Management"
+ALEZV,"EasyVista S.A.",FR0010246322,FR,"Euronext GROWTH*",Technology,"Information Technology Services"
+ALFIL,"Filae S.A.",FR0010221069,FR,"Euronext GROWTH*","Communication Services","Internet Content & Information"
+ALFOC,"Focus Home Interactive Societe anonyme",FR0012419307,FR,"Euronext GROWTH*","Communication Services","Electronic Gaming & Multimedia"
+ALFPC,"Fountaine Pajot SA",FR0010485268,FR,"Euronext GROWTH*","Consumer Cyclical",Leisure
+ALFST,NaN,FR0011651819,FR,"Euronext GROWTH*",NaN,NaN
+ALGBE,"Global Bioenergies SA",FR0011052257,FR,"Euronext GROWTH*",Utilities,Utilities—Diversified
+ALGEM,"Eurogerm SA",FR0010452474,FR,"Euronext GROWTH*","Consumer Defensive","Farm Products"
+ALGEN,"genOway S.A.",FR0004053510,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALGEP,"Global EcoPower Societe Anonyme",FR0011289198,FR,"Euronext GROWTH*",Utilities,Utilities—Renewable
+ALGIL,"Groupe Guillin S.A.",FR0012819381,FR,"Euronext GROWTH*","Consumer Cyclical","Packaging & Containers"
+ALHRG,Herige,FR0000066540,FR,"Euronext GROWTH*","Basic Materials","Building Materials"
+ALHSW,"Horizontal Software S.A.",FR0013219367,FR,"Euronext GROWTH*",Technology,Software—Application
+ALHVS,"Harvest S.A.",FR0010207795,FR,"Euronext GROWTH*",Technology,Software—Application
+ALHYG,"Hybrigenics Societe Anonyme",FR0004153930,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALICR,"I.CERAM SA",FR0011511971,FR,"Euronext GROWTH*",Healthcare,"Medical Instruments & Supplies"
+ALIMP,"Implanet S.A.",FR0010458729,FR,"Euronext GROWTH*",Healthcare,"Medical Devices"
+ALIMR,"Immersion SA",FR0013060100,FR,"Euronext GROWTH*",Technology,Software—Application
+ALINS,"Intrasense SA",FR0011179886,FR,"Euronext GROWTH*",Healthcare,"Health Information Services"
+ALINT,"IntegraGen SA",FR0010908723,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALINV,"Invibes Advertising SA",BE0974299316,BE,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALKAL,"Kalray S.A.",FR0010722819,FR,"Euronext GROWTH*",Technology,Semiconductors
+ALKEY,NaN,FR0000185621,FR,"Euronext GROWTH*",NaN,NaN
+ALKKO,"KKO International SA",BE0974284169,BE,"Euronext GROWTH*","Consumer Defensive","Farm Products"
+ALKLK,"Kerlink SA",FR0013156007,FR,"Euronext GROWTH*",Technology,Software—Infrastructure
+ALLHB,"Les Hotels Baverez S.A.",FR0007080254,FR,"Euronext GROWTH*","Consumer Cyclical",Lodging
+ALLIX,"WALLIX GROUP SA",FR0010131409,FR,"Euronext GROWTH*",Technology,Software—Infrastructure
+ALM,"Alpha MOS SA",FR0000062804,FR,EURONEXT,Technology,"Scientific & Technical Instruments"
+ALMAK,"Makheia Group Societe anonyme",FR0000072993,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALMAS,"Mastrad Societe Anonyme",FR0004155687,FR,"Euronext GROWTH*","Consumer Defensive","Household & Personal Products"
+ALMDG,"MGI Digital Technology Societe Anonyme",FR0010353888,FR,"Euronext GROWTH*",Industrials,"Specialty Business Services"
+ALMDT,"Median Technologies SA",FR0011049824,FR,"Euronext GROWTH*",Healthcare,"Diagnostics & Research"
+ALMEC,"Mecelec Composites SA",FR0000061244,FR,"Euronext GROWTH*",Industrials,"Electrical Equipment & Parts"
+ALMED,"Medicrea International SA",FR0004178572,FR,"Euronext GROWTH*",Healthcare,"Medical Devices"
+ALMET,"Methanor SCA",FR0011217710,FR,"Euronext GROWTH*",Utilities,Utilities—Diversified
+ALMIC,"Microwave Vision S.A.",FR0004058949,FR,"Euronext GROWTH*",Technology,"Communication Equipment"
+ALMII,"Maison Internationale de l'Informatique S.A.S.",FR0013270626,FR,"Euronext GROWTH*",Technology,"Information Technology Services"
+ALMIL,1000mercis,FR0010285965,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALMLB,"Miliboo Societe anonyme",FR0013053535,FR,"Euronext GROWTH*","Consumer Cyclical","Furnishings, Fixtures & Appliances"
+ALMNG,madvertise,FR0010812230,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALMOU,"Moulinvest SA",FR0011033083,FR,"Euronext GROWTH*","Basic Materials","Lumber & Wood Production"
+ALMTH,NaN,IT0004615396,IT,"Euronext GROWTH*",NaN,NaN
+ALNEV,"Neovacs S.A.",FR0004032746,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALNN6,"ENENSYS Technologies SA",FR0013330792,FR,"Euronext GROWTH*",Technology,"Communication Equipment"
+ALNOV,"Novacyt S.A.",FR0010397232,FR,"Euronext GROWTH*",Healthcare,"Diagnostics & Research"
+ALNXT,"Nextedia S.A.",FR0004171346,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALOBR,"Ober SA",FR0010330613,FR,"Euronext GROWTH*",Industrials,"Building Products & Equipment"
+ALOCA,"Oceasoft SA",FR0012407096,FR,"Euronext GROWTH*",NaN,NaN
+ALONC,"Oncodesign Societe Anonyme",FR0011766229,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALORD,"Ordissimo SA",FR0013318052,FR,"Euronext GROWTH*",Technology,"Computer Hardware"
+ALOSM,"Osmozis SA",FR0013231180,FR,"Euronext GROWTH*","Communication Services","Telecom Services"
+ALOXA,"Oxatis SA",FR0013328184,FR,"Euronext GROWTH*",Technology,Software—Application
+ALP,ADLPartner,FR0000062978,FR,EURONEXT,"Communication Services","Advertising Agencies"
+ALPAR,"Groupe Parot SA",FR0013204070,FR,"Euronext GROWTH*","Consumer Cyclical","Auto & Truck Dealerships"
+ALPAT,"Plant Advanced Technologies SA",FR0010785790,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALPCV,"Cerinnov Group SA",FR0013178712,FR,"Euronext GROWTH*",Industrials,"Specialty Industrial Machinery"
+ALPHA,"Pharnext SA",FR0011191287,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALPHY,"Ales Groupe S.A.",FR0000054652,FR,"Euronext GROWTH*","Consumer Defensive","Household & Personal Products"
+ALPJT,"Poujoulat SA",FR0000066441,FR,"Euronext GROWTH*",Industrials,"Building Products & Equipment"
+ALPLA,"PlanetMedia SA",FR0010211037,FR,"Euronext GROWTH*","Communication Services","Internet Content & Information"
+ALPOU,"Poulaillon SA",FR0013015583,FR,"Euronext GROWTH*","Consumer Defensive","Packaged Foods"
+ALPRE,"Predilife S.A.",FR0010169920,FR,"Euronext GROWTH*",Healthcare,"Diagnostics & Research"
+ALPRI,"Prismaflex International, S.A.",FR0004044600,FR,EURONEXT,"Communication Services","Advertising Agencies"
+ALPRO,Prodware,FR0010313486,FR,"Euronext GROWTH*",Technology,Software—Application
+ALQGC,"Quantum Genomics Societe Anonyme",FR0011648971,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALQWA,Qwamplify,FR0010889386,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALREA,Realites,FR0011858190,FR,"Euronext GROWTH*","Real Estate","Real Estate Services"
+ALREW,"Reworld Media Societe Anonyme",FR0010820274,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALRGR,"Rougier S.A.",FR0000037640,FR,"Euronext GROWTH*",NaN,NaN
+ALROC,"RocTool S.A.",FR0010523167,FR,"Euronext GROWTH*",Technology,"Electronic Components"
+ALS30,"Solutions 30 S.E.",FR0013379484,FR,"Euronext GROWTH*",Technology,"Information Technology Services"
+ALSAS,"Stradim Espace Finances SA",FR0000074775,FR,"Euronext GROWTH*","Real Estate","Real Estate Services"
+ALSEN,"Sensorion SA",FR0012596468,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALSGD,"SpineGuard SA",FR0011464452,FR,"Euronext GROWTH*",Healthcare,"Medical Devices"
+ALSPW,"Spineway Societe Anonyme",FR0011398874,FR,"Euronext GROWTH*",Healthcare,"Medical Devices"
+ALSTW,"Streamwide S.A.",FR0010528059,FR,"Euronext GROWTH*",Technology,Software—Application
+ALTBG,"The Blockchain Group",FR0011053636,FR,"Euronext GROWTH*","Communication Services","Advertising Agencies"
+ALTER,"Theradiag SA",FR0004197747,FR,"Euronext GROWTH*",Healthcare,"Medical Devices"
+ALTEV,"Envea Societe anonyme",FR0010278762,FR,"Euronext GROWTH*",Technology,"Scientific & Technical Instruments"
+ALTHE,"Theraclion SA",FR0010120402,FR,"Euronext GROWTH*",Healthcare,"Medical Devices"
+ALTHX,"Theranexus Societe Anonyme",FR0013286259,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALTRA,"Traqueur SA",FR0004043487,FR,"Euronext GROWTH*",Technology,"Scientific & Technical Instruments"
+ALTRO,"Tronic's Microsystems SA",FR0004175099,FR,"Euronext GROWTH*",Technology,"Semiconductor Equipment & Materials"
+ALTUR,"Altur Investissement SCA, SCR",FR0010395681,FR,EURONEXT,"Financial Services","Asset Management"
+ALTUV,"BIO-UV Group S.A.",FR0013345493,FR,"Euronext GROWTH*",Industrials,"Waste Management"
+ALTVO,"Evolis SA",FR0004166197,FR,"Euronext GROWTH*",Technology,"Computer Hardware"
+ALU10,"U10 Corp",FR0000079147,FR,"Euronext GROWTH*","Consumer Cyclical","Furnishings, Fixtures & Appliances"
+ALUCI,"Lucibel SA",FR0011884378,FR,"Euronext GROWTH*",Industrials,"Electrical Equipment & Parts"
+ALUCR,"Ucar SA",FR0011070457,FR,"Euronext GROWTH*",Industrials,"Rental & Leasing Services"
+ALUMS,"Umanis SA",FR0013263878,FR,"Euronext GROWTH*",Technology,"Information Technology Services"
+ALUPG,"UPERGY Societe Anonyme",FR0010337865,FR,"Euronext GROWTH*","Consumer Cyclical","Specialty Retail"
+ALUVI,"UV Germi SA",FR0011898584,FR,"Euronext GROWTH*",Industrials,"Pollution & Treatment Controls"
+ALVAL,"Valbiotis SA",FR0013254851,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+ALVDM,"Voyageurs du Monde SA",FR0004045847,FR,"Euronext GROWTH*","Consumer Cyclical","Travel Services"
+ALVEL,"Velcan Holdings S.A.",FR0010245803,FR,"Euronext GROWTH*",Utilities,Utilities—Renewable
+ALVGO,"VOGO Societe anonyme",FR0011532225,FR,"Euronext GROWTH*",Technology,Software—Application
+ALVIV,"Visiativ SA",FR0004029478,FR,"Euronext GROWTH*",Technology,Software—Application
+ALVMG,"Visiomed Group SA",FR0011067669,FR,"Euronext GROWTH*",Healthcare,"Medical Instruments & Supplies"
+ALVU,"Vente-Unique.com SA",FR0010766667,FR,"Euronext GROWTH*","Consumer Cyclical","Furnishings, Fixtures & Appliances"
+ALWEB,"Weborama SA",FR0010337444,FR,"Euronext GROWTH*","Communication Services","Internet Content & Information"
+ALWEC,"We.Connect SA",FR0013079092,FR,"Euronext GROWTH*",Technology,"Consumer Electronics"
+ALWIT,"Witbe SA",FR0013143872,FR,"Euronext GROWTH*","Communication Services","Internet Content & Information"
+AMEBA,"Amoeba S.A.",FR0011051598,FR,EURONEXT,"Basic Materials","Agricultural Inputs"
+AMPLI,"Amplitude Surgical SA",FR0012789667,FR,EURONEXT,Healthcare,"Medical Instruments & Supplies"
+ARTE,NaN,FR0012185536,FR,EURONEXT,NaN,NaN
+ASP,"AST Groupe",FR0000076887,FR,EURONEXT,"Consumer Cyclical","Residential Construction"
+ATA,"Atari SA",FR0010478248,FR,EURONEXT,"Communication Services","Electronic Gaming & Multimedia"
+ATEB,"Atenor SA",BE0003837540,BE,EURONEXT,"Real Estate","Real Estate—Development"
+ATEME,"ATEME SA",FR0011992700,FR,EURONEXT,Technology,"Communication Equipment"
+ATI,"ACTIA Group S.A.",FR0000076655,FR,EURONEXT,"Consumer Cyclical","Auto Parts"
+AUB,"Aubay Societe Anonyme",FR0000063737,FR,"Euronext GROWTH*",Technology,"Information Technology Services"
+AURE,"Aurea SA",FR0000039232,FR,EURONEXT,Industrials,"Waste Management"
+AURS,"AURES Technologies S.A.",FR0013183589,FR,EURONEXT,NaN,NaN
+AVT,"Avenir Telecom S.A.",FR0000066052,FR,EURONEXT,Technology,"Communication Equipment"
+AWOX,"AwoX S.A.",FR0011800218,FR,EURONEXT,Technology,"Consumer Electronics"
+BALYO,"Balyo SA",FR0013258399,FR,EURONEXT,Industrials,"Specialty Industrial Machinery"
+BAR,"Barco NV",BE0003790079,BE,EURONEXT,Technology,"Electronic Components"
+BELI,"Le Belier SA",FR0000072399,FR,EURONEXT,"Consumer Cyclical","Auto Parts"
+BESI,"BE Semiconductor Industries N.V.",NL0000339760,NL,EURONEXT,Technology,"Semiconductor Equipment & Materials"
+BIG,"BigBen Interactive",FR0000074072,FR,EURONEXT,Technology,"Consumer Electronics"
+BLC,"Bastide Le Confort Medical SA",FR0000035370,FR,EURONEXT,Healthcare,"Medical Distribution"
+BND,"Business & Decision SA",FR0000078958,FR,EURONEXT,Industrials,"Specialty Business Services"
+BOTHE,"Bone Therapeutics SA",BE0974280126,BE,EURONEXT,Healthcare,Biotechnology
+BSD,"Bourse Direct SA",FR0000074254,FR,EURONEXT,"Financial Services","Capital Markets"
+BUI,"Barbara Bui SA",FR0000062788,FR,EURONEXT,"Consumer Cyclical","Apparel Manufacturing"
+BUP,"Biom'Up S.A.",FR0013284080,FR,EURONEXT,Healthcare,"Medical Instruments & Supplies"
+CAFO,"Centrale d'Achat Francaise pour l'Outre-Mer Societe Anonyme",FR0010151589,FR,EURONEXT,"Consumer Cyclical","Specialty Retail"
+CAND,"Candela Invest SA",BE0974298300,BE,"Euronext GROWTH*","Financial Services","Asset Management"
+CAPLI,"Groupe Capelli",FR0012969095,FR,EURONEXT,"Real Estate","Real Estate—Development"
+CAS,"Cast SA",FR0000072894,FR,EURONEXT,Technology,Software—Application
+CBOT,"CBo Territoria Societe Anonyme",FR0010193979,FR,EURONEXT,"Real Estate","Real Estate—Diversified"
+CEREN,NaN,FR0012616852,FR,EURONEXT,NaN,NaN
+CHSR,Chausseria,FR0000060907,FR,EURONEXT,"Consumer Cyclical","Footwear & Accessories"
+CLA,"Claranova SE",FR0004026714,FR,EURONEXT,Technology,Software—Application
+CLNV,"Cellnovo Group SA",FR0012633360,FR,EURONEXT,Healthcare,"Medical Devices"
+COGEC,"Cogelec SA",FR0013335742,FR,EURONEXT,Technology,"Communication Equipment"
+COUR,"Courtois S.A.",FR0000065393,FR,EURONEXT,"Real Estate","Real Estate Services"
+COX,"Nicox S.A.",FR0013018124,FR,EURONEXT,Healthcare,Biotechnology
+CRI,"Chargeurs SA",FR0000130692,FR,EURONEXT,"Consumer Cyclical","Textile Manufacturing"
+CROS,"Crosswood SA",FR0000050395,FR,EURONEXT,"Real Estate","Real Estate Services"
+CYAD,"Celyad SA",BE0974260896,BE,EURONEXT,Healthcare,Biotechnology
+DBV,"DBV Technologies S.A.",FR0010417345,FR,EURONEXT,Healthcare,Biotechnology
+DGM,"Diagnostic Medical Systems S.A.",FR0012202497,FR,EURONEXT,Healthcare,"Medical Devices"
+DIG,"Digigram S.A.",FR0000035784,FR,EURONEXT,Technology,"Electronic Components"
+DLT,"Dalet S.A.",FR0011026749,FR,EURONEXT,Technology,Software—Application
+DLTA,"Delta Plus Group",FR0013283108,FR,EURONEXT,"Consumer Cyclical","Footwear & Accessories"
+DVT,"Devoteam SA",FR0000073793,FR,EURONEXT,Technology,"Information Technology Services"
+ECASA,"ECA SA",FR0010099515,FR,EURONEXT,Industrials,"Aerospace & Defense"
+EKI,"EKINOPS S.A.",FR0011466069,FR,EURONEXT,Technology,"Communication Equipment"
+EMG,"Euromedis Groupe",FR0000075343,FR,EURONEXT,Healthcare,"Medical Devices"
+EOS,"ACTEOS S.A.",FR0000076861,FR,EURONEXT,Technology,Software—Application
+EOSI,"EOS imaging SA",FR0011191766,FR,EURONEXT,Healthcare,"Medical Devices"
+ERYP,"ERYTECH Pharma S.A.",FR0011471135,FR,EURONEXT,Healthcare,Biotechnology
+ESI,"ESI Group SA",FR0004110310,FR,EURONEXT,Technology,Software—Application
+EVS,"EVS Broadcast Equipment S.A.",BE0003820371,BE,EURONEXT,Technology,"Communication Equipment"
+EXAC,"Exacompta Clairefontaine S.A.",FR0000064164,FR,EURONEXT,"Basic Materials","Paper & Paper Products"
+EXE,"Exel Industries Societe Anonyme",FR0004527638,FR,EURONEXT,Industrials,"Farm & Heavy Construction Machinery"
+EXPL,"EPC Groupe",FR0000039026,FR,EURONEXT,"Basic Materials","Specialty Chemicals"
+FALG,"Fermentalg Societe Anonyme",FR0011271600,FR,EURONEXT,Healthcare,Biotechnology
+FGA,"Figeac Aero Societe Anonyme",FR0011665280,FR,"Euronext GROWTH*",Industrials,"Aerospace & Defense"
+FLE,"Fleury Michon SA",FR0000074759,FR,EURONEXT,"Consumer Defensive","Packaged Foods"
+GAM,"Gaumont SA",FR0000034894,FR,EURONEXT,"Communication Services",Entertainment
+GBT,"Guerbet SA",FR0000032526,FR,EURONEXT,Healthcare,"Medical Devices"
+GECP,"GECI International S.A.",FR0000079634,FR,EURONEXT,Technology,Software—Infrastructure
+GENX,"Generix SA",FR0010501692,FR,EURONEXT,Technology,Software—Application
+GET,"Getlink SE",FR0010533075,FR,EURONEXT,Industrials,Railroads
+GID,"Egide S.A.",FR0000072373,FR,EURONEXT,Technology,"Electronic Components"
+GIRO,"Signaux Girod S.A.",FR0000060790,FR,EURONEXT,Industrials,Railroads
+GKTX,"Genkyotex SA",FR0011790542,FR,EURONEXT,Healthcare,Biotechnology
+GLO,"GL Events SA",FR0000066672,FR,EURONEXT,Industrials,"Specialty Business Services"
+GNFT,"Genfit SA",FR0004163111,FR,"Euronext GROWTH*",Healthcare,Biotechnology
+GOE,"Groupe Gorge SA",FR0000062671,FR,EURONEXT,Technology,"Scientific & Technical Instruments"
+GRVO,"Graines Voltz",FR0000065971,FR,EURONEXT,"Basic Materials","Agricultural Inputs"
+GV,"Genomic Vision Societe Anonyme",FR0011799907,FR,EURONEXT,Healthcare,"Diagnostics & Research"
+HF,"HF Company Societe Anonyme",FR0000038531,FR,EURONEXT,Technology,"Communication Equipment"
+HIPAY,"HiPay Group SA",FR0012821916,FR,EURONEXT,Technology,Software—Infrastructure
+HOP,"Hopscotch Global PR Group",FR0000065278,FR,EURONEXT,"Communication Services","Advertising Agencies"
+IDIP,IDI,FR0000051393,FR,EURONEXT,"Financial Services","Asset Management"
+INF,"Infotel SA",FR0000071797,FR,EURONEXT,Technology,"Information Technology Services"
+INFE,"Compagnie Industrielle et Financiere d'Entreprises SA",FR0000066219,FR,EURONEXT,Industrials,"Engineering & Construction"
+INSD,NaN,FR0010291245,FR,EURONEXT,NaN,NaN
+IPH,"Innate Pharma S.A.",FR0010331421,FR,EURONEXT,Healthcare,Biotechnology
+ITE,"Itesoft S.A.",FR0004026151,FR,EURONEXT,Technology,Software—Infrastructure
+ITP,"Interparfums SA",FR0004024222,FR,EURONEXT,"Consumer Defensive","Household & Personal Products"
+ITS,"ITS Group",FR0000073843,FR,EURONEXT,NaN,NaN
+IVA,"Inventiva S.A.",FR0013233012,FR,EURONEXT,Healthcare,Biotechnology
+JBOG,"Jacques Bogart S.A.",FR0012872141,FR,EURONEXT,"Consumer Defensive","Household & Personal Products"
+JCQ,"Jacquet Metal Service SA",FR0000033904,FR,EURONEXT,"Basic Materials",Steel
+JXR,"Archos S.A.",FR0000182479,FR,EURONEXT,Technology,"Consumer Electronics"
+KAZI,"Orchestra-Premaman S.A.",FR0013190410,FR,EURONEXT,"Consumer Cyclical","Apparel Manufacturing"
+KEY,"Keyrus S.A.",FR0004029411,FR,EURONEXT,Technology,"Information Technology Services"
+KOF,"Kaufman & Broad S.A.",FR0004007813,FR,EURONEXT,"Consumer Cyclical","Residential Construction"
+LACR,"Lacroix SA",FR0000066607,FR,EURONEXT,Technology,"Scientific & Technical Instruments"
+LAN,NaN,FR0004027068,FR,EURONEXT,NaN,NaN
+LAT,"Latecoere S.A.",FR0000032278,FR,EURONEXT,Industrials,"Aerospace & Defense"
+LBIRD,"Lumibird SA",FR0000038242,FR,EURONEXT,Healthcare,"Diagnostics & Research"
+LBON,"Compagnie Lebon",FR0000121295,FR,EURONEXT,"Financial Services","Asset Management"
+LDL,NaN,FR0000075442,FR,EURONEXT,NaN,NaN
+LFDE,"La Francaise de l'Energie S.A.",FR0013030152,FR,EURONEXT,Energy,"Oil & Gas E&P"
+LFVE,"La Fonciere Verte",FR0000039638,FR,EURONEXT,"Real Estate","Real Estate Services"
+LIN,"Linedata Services S.A.",FR0004156297,FR,EURONEXT,Technology,Software—Application
+LNA,"LNA Sante SA",FR0004170017,FR,EURONEXT,Healthcare,"Medical Care Facilities"
+LNC,"BASSAC Societe anonyme",FR0004023208,FR,EURONEXT,"Industrial Goods","Residential Construction"
+LOCAL,"Solocal Group S.A.",FR0012938884,FR,EURONEXT,"Communication Services","Advertising Agencies"
+LPE,"Laurent-Perrier S.A.",FR0006864484,FR,EURONEXT,"Consumer Defensive","Beverages—Wineries & Distilleries"
+LSS,"Lectra SA",FR0000065484,FR,EURONEXT,Technology,Software—Application
+LTAN,NaN,FR0000075673,FR,EURONEXT,NaN,NaN
+LYS,"Lysogene S.A.",FR0013233475,FR,EURONEXT,Healthcare,Biotechnology
+MAGIS,"Ymagis Societe Anonyme",FR0011471291,FR,EURONEXT,"Communication Services",Entertainment
+MAN,"Manutan International S.A.",FR0000032302,FR,EURONEXT,Industrials,"Specialty Business Services"
+MBWS,"Marie Brizard Wine & Spirits SA",FR0000060873,FR,EURONEXT,"Consumer Defensive","Beverages—Wineries & Distilleries"
+MCPHY,"McPhy Energy S.A.",FR0011742329,FR,EURONEXT,Industrials,"Specialty Industrial Machinery"
+MDW,"Mediawan SA",FR0013247137,FR,EURONEXT,"Communication Services",Broadcasting
+MED,NaN,FR0000052623,FR,EURONEXT,NaN,NaN
+MEDCL,"MedinCell S.A.",FR0004065605,FR,EURONEXT,Healthcare,Biotechnology
+MEMS,"MEMSCAP, S.A.",FR0010298620,FR,EURONEXT,Technology,"Semiconductor Equipment & Materials"
+METEX,"METabolic EXplorer S.A.",FR0004177046,FR,EURONEXT,"Basic Materials",Chemicals
+MFC,NaN,FR0004159473,FR,EURONEXT,NaN,NaN
+MKEA,"Mauna Kea Technologies SA",FR0010609263,FR,EURONEXT,Healthcare,"Medical Devices"
+MLAEM,"Ashler et Manson SA",FR0012968485,FR,"Euronext Access**","Financial Services","Insurance Brokers"
+MLAGI,"SAS AG3i",FR0011908045,FR,"Euronext Access**",NaN,NaN
+MLAIM,"Air Marine SA",FR0013285103,FR,"Euronext Access**",Industrials,"Aerospace & Defense"
+MLBSP,"Blue Shark Power System",FR0013340973,FR,"Euronext Access**",Utilities,Utilities—Renewable
+MLCEC,"SA Cecurity.com",FR0010717579,FR,"Euronext Access**",Technology,Software—Infrastructure
+MLCIO,"Groupe CIOA",FR0012384907,FR,"Euronext Access**",Industrials,"Consulting Services"
+MLCLI,"Maison Clio Blue SA",FR0011092089,FR,"Euronext Access**","Consumer Cyclical","Luxury Goods"
+MLCMB,"Compagnie Du Mont-Blanc",FR0000060428,FR,"Euronext Access**","Consumer Cyclical",Leisure
+MLCTA,NaN,FR0000054066,FR,"Euronext Access**",NaN,NaN
+MLDTB,"datBIM SA",FR0004177939,FR,"Euronext Access**",Technology,"Information Technology Services"
+MLFDV,FD,FR0012300424,FR,"Euronext Access**","Consumer Defensive","Packaged Foods"
+MLGML,"Gour Medical SA",CH0342399851,CH,"Euronext Access**",Healthcare,"Drug Manufacturers—Specialty & Generic"
+MLMAD,"Made SA",FR0010328302,FR,"Euronext Access**",Technology,"Scientific & Technical Instruments"
+MLNAT,"Nature et Logis SA",FR0013344223,FR,"Euronext Access**","Consumer Cyclical","Residential Construction"
+MLOCT,"Octopus Robots SA",FR0013310281,FR,"Euronext Access**",Technology,"Computer Hardware"
+MLOEX,"One Experience SA",FR0013266772,FR,"Euronext Access**",Industrials,"Specialty Business Services"
+MLONE,"Body One SA",FR0010106039,FR,"Euronext Access**","Consumer Cyclical","Apparel Manufacturing"
+MLPFX,"Parfex SA",FR0000185928,FR,"Euronext Access**","Basic Materials","Specialty Chemicals"
+MLSBT,"Scientific Brain Training SA",FR0004175222,FR,"Euronext Access**",Healthcare,"Medical Care Facilities"
+MLSTM,NaN,FR0013063559,FR,"Euronext Access**",NaN,NaN
+MLVER,"Verney-Carron S.A.",FR0006174496,FR,"Euronext Access**",Industrials,"Aerospace & Defense"
+MLWEA,"Weaccess Group, Societe Anonyme",FR0010688465,FR,"Euronext Access**",NaN,NaN
+MND,"Montagne et Neige Développement SA",FR0011584549,FR,"Euronext GROWTH*",NaN,NaN
+MRB,"Mr. Bricolage SA",FR0004034320,FR,EURONEXT,"Consumer Cyclical","Home Improvement Retail"
+MSTY,"Mainstay Medical International plc",IE00BJYS1G50,FR,EURONEXT,Healthcare,"Medical Devices"
+MTU,"Manitou BF SA",FR0000038606,FR,EURONEXT,Industrials,"Specialty Industrial Machinery"
+MUN,"Micropole S.A.",FR0000077570,FR,EURONEXT,Technology,"Information Technology Services"
+NANO,"Nanobiotix S.A.",FR0011341205,FR,EURONEXT,Healthcare,Biotechnology
+NRG,"NRJ Group SA",FR0000121691,FR,EURONEXT,"Communication Services",Broadcasting
+ONXEO,"Onxeo SA",FR0010095596,FR,EURONEXT,Healthcare,Biotechnology
+OPN,"Groupe Open",FR0004050300,FR,EURONEXT,Technology,"Information Technology Services"
+ORAP,"Orapi SA",FR0000075392,FR,EURONEXT,"Basic Materials","Specialty Chemicals"
+OREGE,"Orege Societe Anonyme",FR0010609206,FR,EURONEXT,Industrials,"Waste Management"
+OSE,"OSE Immunotherapeutics SA",FR0012127173,FR,EURONEXT,Healthcare,Biotechnology
+PARP,"Groupe Partouche SA",FR0012612646,FR,EURONEXT,"Consumer Cyclical","Resorts & Casinos"
+PARRO,"Parrot S.A.",FR0004038263,FR,EURONEXT,Technology,"Communication Equipment"
+PCA,"PCAS SA",FR0000053514,FR,EURONEXT,"Basic Materials",Chemicals
+PERR,"Gerard Perrier Industrie S.A.",FR0000061459,FR,EURONEXT,Industrials,"Electrical Equipment & Parts"
+PHA,"Pharmagest Interactive SA",FR0012882389,FR,EURONEXT,Healthcare,"Health Information Services"
+PIG,"Haulotte Group SA",FR0000066755,FR,EURONEXT,Industrials,"Farm & Heavy Construction Machinery"
+PIX,"Pixium Vision SA",FR0011950641,FR,EURONEXT,Healthcare,"Medical Instruments & Supplies"
+POXEL,"Poxel SA",FR0012432516,FR,EURONEXT,Healthcare,Biotechnology
+PRC,Artprice.com,FR0000074783,FR,EURONEXT,"Communication Services",Publishing
+PREC,"Precia SA",FR0000060832,FR,EURONEXT,Industrials,"Specialty Industrial Machinery"
+PROL,"Prologue S.A.",FR0010380626,FR,EURONEXT,Technology,Software—Application
+PSB,"PSB Industries",FR0000060329,FR,EURONEXT,"Consumer Cyclical","Packaging & Containers"
+PVL,"Plastiques du Val de Loire",FR0013252186,FR,EURONEXT,"Consumer Cyclical","Auto Parts"
+PWG,"Prodways Group SA",FR0012613610,FR,EURONEXT,Industrials,"Specialty Industrial Machinery"
+RBO,"Roche Bobois S.A.",FR0013344173,FR,EURONEXT,"Consumer Cyclical","Furnishings, Fixtures & Appliances"
+RBT,"Robertet SA",FR0000039091,FR,EURONEXT,"Basic Materials",Chemicals
+RIB,"Riber S.A.",FR0000075954,FR,EURONEXT,Technology,"Semiconductor Equipment & Materials"
+SABE,"Saint Jean Groupe Societe anonyme",FR0000060121,FR,EURONEXT,"Consumer Defensive","Packaged Foods"
+SAFOR,NaN,FR0012452746,FR,EURONEXT,NaN,NaN
+SCHP,"Seche Environnement SA",FR0000039109,FR,EURONEXT,Industrials,"Waste Management"
+SEFER,"SergeFerrari Group SA",FR0011950682,FR,EURONEXT,Industrials,"Building Products & Equipment"
+SESL,"SES-imagotag Societe Anonyme",FR0010282822,FR,EURONEXT,Technology,"Electronic Components"
+SFPI,"GROUPE SFPI SA",FR0004155000,FR,EURONEXT,Industrials,"Specialty Industrial Machinery"
+SIGHT,"GenSight Biologics S.A.",FR0013183985,FR,EURONEXT,Healthcare,Biotechnology
+SII,"SII (Societe pour l'Informatique Industrielle) Societe Anonyme",FR0000074122,FR,EURONEXT,Technology,"Information Technology Services"
+SOG,"Sogeclair SA",FR0000065864,FR,EURONEXT,Industrials,"Aerospace & Defense"
+SOI,"Soitec S.A.",FR0013227113,FR,EURONEXT,Technology,"Semiconductor Equipment & Materials"
+SPEL,"Fonciere Volta",FR0000053944,FR,EURONEXT,"Real Estate","Real Estate Services"
+SQI,"SQLI SA",FR0011289040,FR,EURONEXT,Technology,"Information Technology Services"
+SRP,"SRP Groupe S.A.",FR0013006558,FR,EURONEXT,"Consumer Cyclical","Internet Retail"
+SSI,"SuperSonic Imagine SA",FR0010526814,FR,EURONEXT,Healthcare,"Medical Devices"
+STNT,NaN,FR0010949404,FR,EURONEXT,NaN,NaN
+SWP,"Sword Group S.E.",FR0004180578,FR,EURONEXT,Technology,Software—Application
+SX,"CS Communication & Systemes SA",FR0007317813,FR,EURONEXT,Industrials,"Aerospace & Defense"
+TES,"Tessi SA",FR0004529147,FR,EURONEXT,Technology,"Information Technology Services"
+TFF,"TFF Group",FR0013295789,FR,EURONEXT,"Consumer Cyclical","Packaging & Containers"
+THEP,"Thermador Groupe SA",FR0013333432,FR,EURONEXT,Industrials,"Industrial Distribution"
+TIPI,"Tipiak Societe Anonyme",FR0000066482,FR,EURONEXT,"Consumer Defensive","Packaged Foods"
+TOU,"Toupargel Groupe SA",FR0000039240,FR,EURONEXT,"Consumer Defensive","Food Distribution"
+TOUP,"Touax SCA",FR0000033003,FR,EURONEXT,Industrials,"Marine Shipping"
+TRI,"Trigano S.A.",FR0005691656,FR,EURONEXT,"Consumer Cyclical","Recreational Vehicles"
+TVLY,"Tivoly S.A.",FR0000060949,FR,EURONEXT,Industrials,"Specialty Industrial Machinery"
+VETO,"Vetoquinol SA",FR0004186856,FR,EURONEXT,Healthcare,"Drug Manufacturers—Specialty & Generic"
+VIRP,"Virbac SA",FR0000031577,FR,EURONEXT,Healthcare,"Drug Manufacturers—General"
+VLA,"Valneva SE",FR0004056851,FR,EURONEXT,Healthcare,Biotechnology
+VRAP,"Vranken-Pommery Monopole - Societe Anonyme",FR0000062796,FR,EURONEXT,"Consumer Defensive","Beverages—Wineries & Distilleries"
+VTX,"Voluntis S.A.",FR0004183960,FR,EURONEXT,Healthcare,"Health Information Services"
+WAVE,"Wavestone SA",FR0013357621,FR,EURONEXT,Technology,"Information Technology Services"
+XIL,"Xilam Animation",FR0004034072,FR,EURONEXT,"Communication Services",Entertainment
